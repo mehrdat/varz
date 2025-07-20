@@ -1,0 +1,12 @@
+
+{
+  "name": "fasting-tracker",
+  "version": "1.0.0",
+  "description": "An application to track intermittent fasting progress over 100 hours.",
+  "scripts": {
+    "build": "esbuild index.tsx --bundle --outfile=www/index.js --jsx=automatic"
+  },
+  "devDependencies": {
+    "esbuild": "^0.21.4"
+  }
+}

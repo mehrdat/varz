@@ -1,0 +1,5 @@
+{
+  "name": "100 Hour Fast",
+  "description": "An application to track intermittent fasting progress over 100 hours.",
+  "requestFramePermissions": []
+}

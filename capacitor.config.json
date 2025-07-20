@@ -1,0 +1,7 @@
+
+{
+  "appId": "com.fasting.tracker100h",
+  "appName": "100 Hour Fast",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
